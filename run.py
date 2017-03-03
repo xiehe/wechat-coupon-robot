@@ -86,7 +86,7 @@ class MyWXBot(WXBot):
 
 
 def main():
-    print 'version v0.3.12'
+    print u'version v0.3.12 By:小墨 QQ:244349067'
     bot = MyWXBot()
     # bot.DEBUG = True
     bot.conf['qr'] = 'png'
