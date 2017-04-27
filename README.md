@@ -20,6 +20,3 @@
 ## 注意
 - 文件路径,目录尽量不要中文名。
 - 对设置的群一定要先保存到通讯录。
-
-## 参考
-[wxrobot](https://github.com/liuwons/wxBot)
