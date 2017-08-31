@@ -20,3 +20,6 @@
 ## 注意
 - 文件路径,目录尽量不要中文名。
 - 对设置的群一定要先保存到通讯录。
+
+## 交流群
+QQ: [219974900](https://shang.qq.com/wpa/qunwpa?idkey=b01ae3447f0a9341eb7b13f41ce4ead7fed68a2e6ef79f48c89da96ce8c8a7ed)
